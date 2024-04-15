@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986164924058",
+    "project_id": "dekrapfe",
+    "storage_bucket": "dekrapfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986164924058:android:e056918709b4bcd246d923",
+        "android_client_info": {
+          "package_name": "com.dekrapfe.dekrapfe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZT9MSgCu9GyVgHW0GMwAEWlKUBPgWOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
